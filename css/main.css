@@ -60,7 +60,7 @@ main.container {
   display: flex;
   align-items: center;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 90vh;
   height: 100%;
   color: #f4f4f4;
   margin-bottom: 3rem;
